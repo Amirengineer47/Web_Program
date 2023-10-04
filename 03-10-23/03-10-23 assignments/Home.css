@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+marquee{
+    color: green;
+    font-size: large;
+    font-weight: bold;
+}
+body{
+    background-image: url(./pexels-elīna-arāja-3377405.jpg);
+}
+#a1{
+    margin-left: 650px;
+    background-color: aqua;
+}
+#a2{
+    background-color: bisque;
+}
+#a3{
+    background-color: rgb(198, 138, 255);
+}
