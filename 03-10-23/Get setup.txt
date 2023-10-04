@@ -1,0 +1,7 @@
+git set up
+
+1.open git besh in the desired or main folder,right click and select open git besh here.
+ke sure the pathin git besh is set to your desired folder.
+2.initialize an empty git repository using comand "git init".
+ack all the chnages by using "git add".
+4.make a version

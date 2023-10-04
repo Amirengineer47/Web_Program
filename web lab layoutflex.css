@@ -1,0 +1,22 @@
+.box{
+    background-color: blue;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+}
+.flex-container{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+.box6
+{
+    background-color: aquamarine;
+    align-content: end;
+}
+.box7{
+    
+
+
+}
